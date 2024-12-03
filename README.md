@@ -10,7 +10,16 @@ The scoring will be as follows:
 - 5 pts - SQL DML (with mardown explanations) showing your data loading from stage  
 - 10 pts - .sql file with your SQL DML in the same folder as your .ipynb (must be runable);  
 
-After looking at this read me file, I would do the following (you can put it all in the .ipynb if you choose)
+## After looking at this read me file, I would do the following in the read.me file (you can put it all in the .ipynb if you choose):
+- In the read.me  
+1) Place the Explanation of the dataset
+2) The list of points / questions I am answering
+3) The ERD of the mart (as shown below)
+
+- in the .ipynb
+The code and explanations of the code in the 2 sql files
+
+
 
 You can access the ipynb [here](./Sample_Mart_Project_Template.ipynb).  
 
