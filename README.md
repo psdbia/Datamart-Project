@@ -21,7 +21,7 @@ The code and explanations of the code in the 2 sql files
 
 ## Great Cheat Sheet for MDL  
 
-markdown-cheatsheet/README.md at main · im-luka/markdown-cheatsheet  
+[Markdown Cheat Sheet](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)  
 
 You can access the ipynb [here](./Sample_Mart_Project_Template.ipynb).  
 
