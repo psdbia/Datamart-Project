@@ -19,8 +19,7 @@ The scoring will be as follows:
 - in the .ipynb
 The code and explanations of the code in the 2 sql files
 
-## ![image](https://github.com/user-attachments/assets/dffc8621-f9ef-4a64-bcaa-929658149f90)
-Great Cheat Sheet for MDL  
+## **-->** Great Cheat Sheet for MDL  
 
 [Markdown Cheat Sheet](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)  
 
