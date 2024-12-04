@@ -438,7 +438,7 @@ You can also use raw HTML in your Markdown file. Most of the times that will wor
 <br />
 
 <p>Quick hack for <strong><em>centering image</em></strong>?</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/46372998/212544874-d0654588-82f7-44f2-bbfa-2bf85fd73854.png" width="200" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/46372998/212544874-d0654588-82f7-44f2-bbfa-2bf85fd73854.png" width="100" /></p>
 
 <details>
   <summary>One more quick hack? 🎭</summary>
