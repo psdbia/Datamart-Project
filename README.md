@@ -19,7 +19,9 @@ The scoring will be as follows:
 - in the .ipynb
 The code and explanations of the code in the 2 sql files
 
+## Great Cheat Sheet for MDL  
 
+[Markdown Cheat Sheet](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)  
 
 You can access the ipynb [here](./Sample_Mart_Project_Template.ipynb).  
 
