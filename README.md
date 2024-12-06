@@ -12,9 +12,9 @@ The scoring will be as follows:
 
 ## After looking at this read me file, I would do the following in the read.me file (you can put it all in the .ipynb if you choose):
 🚀 In the read.me  
-🚀 Place the Explanation of the dataset
-🚀 The list of points / questions I am answering
-🚀 The ERD of the mart (as shown below)
+🚀 Place the Explanation of the dataset  
+🚀 The list of points / questions I am answering  
+🚀 The ERD of the mart (as shown below)  
 
 - in the .ipynb
 The code and explanations of the code in the 2 sql files
