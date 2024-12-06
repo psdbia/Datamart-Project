@@ -9,7 +9,10 @@ Here is the [ULTIMATE cheatsheet](https://github.com/im-luka/markdown-cheatsheet
 2. [Headings](#headings)
 
 ---
+The mart will be constructed as follows:  
+![ERD](./data/SampleProjectERD.png)
 
+---
 <a name="paragraph" />
 
 ## Paragraph
