@@ -12,7 +12,7 @@ The scoring will be as follows:
 
 ## After looking at this read me file, I would do the following in the read.me file (you can put it all in the .ipynb if you choose):
 🚀 In the read.me  
-🚀 Place the Explanation of the dataset
+🚀 Place the Explanation of the dataset </br>
 🚀 The list of points / questions I am answering  
 🚀 The ERD of the mart (as shown below)  
 
