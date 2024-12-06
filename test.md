@@ -38,3 +38,37 @@ There are 6 heading variants. The number of "#" symbols, followed by text, indic
 ##### Heading 5
 ###### Heading 6
 ```
+
+## Sample SQL
+```
+USE TargetMartII;
+GO
+
+/*********************************************************/
+/******************    Schema DDL       ******************/
+/*********************************************************/
+
+IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'dim' ) 
+BEGIN
+	EXEC sp_executesql N'CREATE SCHEMA dim AUTHORIZATION dbo;'
+END
+;
+
+GO
+
+IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'stg' ) 
+BEGIN
+	EXEC sp_executesql N'CREATE SCHEMA stg AUTHORIZATION dbo;'
+END
+;
+
+GO
+
+IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'f' ) 
+BEGIN
+	EXEC sp_executesql N'CREATE SCHEMA f AUTHORIZATION dbo;'
+END
+;
+
+GO
+```
